@@ -1,0 +1,28 @@
+.container{
+    display: grid;
+    grid-template-columns: 50%50%;
+
+
+}
+.input{
+    border: solid 1px; 
+    padding: 8px ;
+    margin: left;
+    width: 40%;
+
+}
+#form{
+    text-align: center;
+    border: solid ;
+    border: left 1px;
+    margin: left;
+    width: 20;
+}
+#button{
+    border: solid 1px; 
+    padding: 8px;
+    margin: 0 auto;
+    width: 40%;
+    background-color: black;
+    color: white
+}
